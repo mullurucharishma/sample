@@ -1,0 +1,11 @@
+git status
+git add .
+git commit -m ""
+username
+git remote add
+git branch -M main
+git push -u origin main
+ git checkout branchname
+git stash -store changes somewhere else
+ git stash pop -to get back those stash changes
+git merge branchname-
